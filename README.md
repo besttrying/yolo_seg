@@ -22,7 +22,7 @@ C3K2结构图如下：
   C3k2，继承自类C2f，其中通过c3k设置False或者Ture来决定选择使用C3k还是Bottleneck.
 </p>
 <p align="center">
-  <img src="backbone.png" width=90%> <br>
+  <img src="c3k2_backbone.png" width=90%> <br>
 </p>
 C3PSA结构图如下：
 <p align="center">
