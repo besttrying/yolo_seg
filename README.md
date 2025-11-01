@@ -33,7 +33,7 @@ C3PSA结构图如下：
   <img src="detect.png" width=90%> <br>
 </p>
 
-# 创新点
+# 创新点(代替C3K2)
 
 <p align="center">
   <img src="LWGA.png" width=90%> <br>
