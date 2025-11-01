@@ -1,5 +1,5 @@
 # yolo_seg
-
+基于YOLO，修改backbone，搭建一个适用于衣服分割的轻量级分割网络！
 ## YOLO11
 <p align="center">
   <img src="yolo11.png" width=90%> <br>
