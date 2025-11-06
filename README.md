@@ -45,3 +45,8 @@ C3PSA结构图如下：
 <p align="center">
   <img src="mamba.png" width=90%> <br>
 </p>
+
+
+# Doing!!!!!
+修改iMaterialist数据集格式，转为YOLO格式。
+https://www.kaggle.com/datasets/sknahin/imaterialist-fashion-yolo-segmentation-dataset
