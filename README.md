@@ -53,3 +53,10 @@ https://www.kaggle.com/datasets/sknahin/imaterialist-fashion-yolo-segmentation-d
 
 # Doing!!!!
 开始训练，训练YOLO11 Seg
+
+# Resulsts
+|metrics.box.map: | 0.27876837981953206 |
+|metrics.box.map50: | 0.37703568744864707 |
+|metrics.box.map75: | 0.3010180053740146 |
+|speed  |  13.2 ms |
+
